@@ -20,5 +20,5 @@ Foco em programação front-end, explorando as nuances do desenvolvimento web.
   <br><br>
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoSCM7&show_icons=true&theme=transparent) <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSCM7&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSCM7&hide_progress=true)
 
