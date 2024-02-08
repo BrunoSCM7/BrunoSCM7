@@ -1,4 +1,4 @@
-### Hello, ladies and gentleman 👋
+## Hello, ladies and gentleman 👋
 
 Olá, sou o Bruno, estudante de Análise de Sistemas no último semestre. <br>
 Foco em programação front-end, explorando as nuances do desenvolvimento web. 
